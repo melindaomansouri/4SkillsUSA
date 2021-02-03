@@ -86,7 +86,7 @@ body {
     align-items: center;
     flex-direction: column;
     height: 170px;
-    margin-top: 8px;
+    margin-top: 2px;
 }
 
 .footer > .social-media-icons-wrapper {
@@ -114,7 +114,7 @@ body {
 }
 
 #bottomboat{
-	padding-bottom: 5px;
+	padding-bottom: 20px;
 }
 
 header{
