@@ -1,3 +1,8 @@
+header{
+background-image: url("images/pier68-boats.jpg");
+background-color: black;
+}
+
 body {
   font-family: "Lato", sans-serif;
 }
@@ -111,12 +116,4 @@ body {
     margin-bottom: 10px;
     font-size: 0.7em;
     color: #858585;
-}
-
-#bottomboat{
-	padding-bottom: 20px;
-}
-
-header{
-
 }
